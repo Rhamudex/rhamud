@@ -1,2 +1,25 @@
-table{
-    
+*{
+margin: 0;
+padding: 0;
+
+
+
+}
+
+
+
+
+
+.cabecalho{   
+    background-color: #424E61;           
+
+}
+.lista-cabecalho{  
+color: white;
+    front: size 70px;
+
+}
+
+
+
+
