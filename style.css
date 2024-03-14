@@ -12,6 +12,11 @@ padding: 0;
 
 .cabecalho{   
     background-color: #424E61;           
+display: flex;
+justify-content: space-around;
+
+
+
 
 }
 .lista-cabecalho{  
@@ -20,6 +25,8 @@ color: white;
 
 }
 
-
+.lista-item{
+    display: inline-block;  
+}
 
 
