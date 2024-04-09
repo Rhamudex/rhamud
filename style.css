@@ -21,7 +21,7 @@ justify-content: space-around;
 }
 .lista-cabecalho{  
 color: white;
-    front: size 70px;
+   font-size: 40px;
 
 }
 
@@ -29,20 +29,18 @@ color: white;
     display: inline-block;  
 }
 
-.primeirparte{      
+.primeira-parte{      
 
-background-image: linear-gradient(#424E61, white)
-height: 500px
-padding: 180px
-color:  white
-
-
-
-
+background-image: linear-gradient(#424E61, white);
+height: 500px;
+padding: 180px;
+color:  white;
 }
 
 
-
+.estudante{
+    width: 25%;
+}
 
 
 
