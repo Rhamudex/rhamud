@@ -11,10 +11,10 @@ padding: 0;
 
 
 .cabecalho{   
-    background-color: #424E61;           
+    background-color: #424E61;              
 display: flex;
 justify-content: space-around;
-
+align-items: center;
 
 
 
@@ -26,7 +26,8 @@ color: white;
 }
 
 .lista-item{
-    display: inline-block;  
+    display: inline-block;
+
 }
 
 .primeira-parte{      
@@ -41,7 +42,13 @@ color:  white;
 .estudante{
     width: 25%;
 }
+.textos{
+width: 35%;
 
+
+
+
+}
 
 
 
